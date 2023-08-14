@@ -1,9 +1,8 @@
-// This is welcome voice applescript.
-// 
-// created by Gautam Sakhiya 14/08/23.
+-- This is welcome voice applescript. 
 
--- Get the current time in hours (24-hour format)
-set currentHour to (current date)'s hours
+-- created by Gautam Sakhiya 14/08/23.
+
+set currentHour to (current date)'s hours -- Get the current time in hours (24-hour format)
 
 -- Determine the time period
 if currentHour ≥ 5 and currentHour < 12 then
