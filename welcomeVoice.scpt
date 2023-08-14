@@ -14,7 +14,7 @@ else
 end if
 
 -- Replace "Hello, I am your AI assistant." with the text you want to speak
-set textToSpeak to "Hi, I am siri. Welcome to NTech Infoway. Good " & timePeriod & "!"
+set textToSpeak to "Hiii GAUTAM SAKHIYA. Welcome to my world. Good " & timePeriod & "!"
 
 
 -- Speak the text using the specified voice
